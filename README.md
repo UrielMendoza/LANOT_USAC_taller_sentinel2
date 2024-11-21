@@ -10,4 +10,4 @@
 
 El ecosistema de espacio de datos de Copernicus ofrece múltiples interfaces de programación de aplicaciones (API) que van desde el catálogo, la descarga de productos y la visualización hasta el procesamiento de servicios web como las API de STAC, openEO y Sentinel Hub.
 
-[DataSpace COPERNICUS]([https://geemap.org/](https://dataspace.copernicus.eu/analyse/apis))
+[DataSpace COPERNICUS](https://dataspace.copernicus.eu/)
